@@ -47,7 +47,7 @@ The main purpose of this assignment was to get hands-on experience with basic HT
 =>  how different tags behave in a browser
 
 
-## 📘 What I learned from this:
+## 📚 What I learned from this:
 Through this assignment, I learned:
 
 -> How to use basic HTML tags to structure a webpage
